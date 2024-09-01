@@ -16,6 +16,8 @@ public class principal {
      */
     public static void main(String[] args) {
         Persona persona1 = new Persona();
+        persona1.nombre = "Luis";
+        persona1.edad = 18;
         persona1.hablar();
         persona1.orden();
         

@@ -15,6 +15,7 @@ public class principal {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
         perro perro1 = new perro("Max", "Labrador");
         perro1.mostrarInformacion();
     }
