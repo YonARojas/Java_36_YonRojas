@@ -1,0 +1,3 @@
+com\mycompany\crud\personas\conexion\Conexion.class
+com\mycompany\crud\personas\conexion\mysql.class
+com\mycompany\crud\personas\CrudPersonas.class
